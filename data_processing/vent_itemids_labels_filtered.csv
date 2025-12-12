@@ -1,0 +1,99 @@
+ITEMID,LABEL
+37,Additional Gas(Vent)
+60,Auto-PEEP Level
+65,BIPAP - Est. Vt
+189,FiO2 (Analyzed)
+190,FiO2 Set
+191,FiO2/O2 Delivered
+501,PCV Exh Vt (Obser)
+502,PCV Insp Vt (Obser)
+505,PEEP
+506,PEEP Set
+507,PIP
+543,Plateau Pressure
+544,Plateau Time (7200)
+545,Plateau-Off
+631,Sensitivity-Vent
+639,Sigh Tidal Volume
+652,Spon. Vt (L) (Mech.)
+681,Tidal Volume
+682,Tidal Volume (Obser)
+683,Tidal Volume (Set)
+686,Total PEEP Level
+720,Ventilator Mode
+721,Ventilator No.
+722,Ventilator Type
+727,Vision FiO2
+732,Waveform-Vent
+1040,BIpap FIO2
+1096,Auto-PEEP level
+1206,HFO FIO2:
+1227,autopeep
+1487,hi min vent
+1514,Hi Tidal Vol
+1570,HI TIDAL VOL
+1729,Hi Min Vent
+1736,hi/min/vent
+1863,HFO-FiO2
+1976,hi min vent.
+2049,HI TIDAL VOLUME
+2069,hi tidal volume
+2311,VT
+2400,tidal volumes
+2402,sp tidal volumes
+2408,tidal vol
+2420,TIDAL VOLUME
+2518,HFO- FIO2
+2534,tidal volume
+2553,svt
+2981,FiO2
+2998,Vt
+3003,SPNIOT TIDAL VOLUMES
+3420,FIO2
+3422,FIO2 [Meas]
+3681,Ventilator Number
+3689,Vt [Ventilator]
+5593,MMV tidal volume
+5870,HOME VENT
+5955,Analyzed INOV FiO2
+5964,Autopeep
+5975,O2% on INOvent
+6130,Hi min vent
+6185,Hi Min vent
+6349,AUTOPeeP
+6350,total PeeP
+6489,auto-peep
+6601,Auto PeeP
+6859,Insp press mius PEEP
+6889,PEEP Sigh level
+6933,exh. vt
+6935,insp. vt
+6985,Sigh PEEP level
+7018,ecmo fio2
+7041,vapotherm fio2
+7403,Volume/SIMV with PSV
+7534,Intrinsic peep
+7570,FIO2 SET
+7595,PSV
+7647,set min. vent
+8053,SIGH PEEP LEVEL
+8345,Sigh peep level
+8357,Sigh Peep
+43444,GT vent
+43859,vent. drain
+220339,PEEP set
+223835,Inspired O2 Fraction
+223848,Ventilator Type
+223849,Ventilator Mode
+224684,Tidal Volume (set)
+224696,Plateau Pressure
+224699,ZAuto Peep Level
+224700,Total PEEP Level
+224701,PSV Level
+225411,Patient on vent
+225792,Invasive Ventilation
+225794,Non-invasive Ventilation
+226260,Mechanically Ventilated
+227061,Ventilated at any time during ICU Day 1
+227565,Ventilator Tank #1
+227566,Ventilator Tank #2
